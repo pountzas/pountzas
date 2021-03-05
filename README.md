@@ -1,4 +1,4 @@
-<!--<img src="https://user-images.githubusercontent.com/47700024/109900732-9acc5680-7c76-11eb-9d0c-daf0d7aae5ff.png" alt="Fernando Marques, Full Stack Developer and Unity Developer"> -->
+<!--<img src="https://user-images.githubusercontent.com/47700024/109900732-9acc5680-7c76-11eb-9d0c-daf0d7aae5ff.png" alt="Pountzas Nikos, Full Stack Developer "> -->
 
 <p align="center">
 <a href="https://www.hackerrank.com/nikos7" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
@@ -6,7 +6,7 @@
 
 </p>
 <h3>Hello There! I am Nikos,</h3>
-<p>A passionate Full-Stack Software Developer who likes automate :dark_sunglasses: </p>
+<p>A passionate Full-Stack Developer who likes to automate :dark_sunglasses: </p>
 
 <br>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-<p>Currently studying as an international programmer in <a href="https://www.microverse.org/" target="_blank">Microverse</a> :rocket:</p>
+<p align="left">Currently studying as an international programmer in <a href="https://www.microverse.org/" target="_blank">Microverse</a> </p>
 
 <h2>Let's get in touch!</h2>
 <p align="center">
