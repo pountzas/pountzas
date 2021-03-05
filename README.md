@@ -1,7 +1,5 @@
 <!--<img src="https://user-images.githubusercontent.com/47700024/109900732-9acc5680-7c76-11eb-9d0c-daf0d7aae5ff.png" alt="Pountzas Nikos, Full Stack Developer "> -->
-
-<p align="center">
-<a href="https://www.hackerrank.com/nikos7" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+>
  
 
 </p>
@@ -10,12 +8,16 @@
 
 <p >Currently studying as an international programmer in <a href="https://www.microverse.org/" target="_blank">Microverse</a> </p>
 
+<p align="center">
+<a href="https://www.hackerrank.com/nikos7" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a
 <br>
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="BootStrap" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
+
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
