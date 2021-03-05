@@ -24,12 +24,6 @@
 
 <p>Currently studying as an international programmer in <a href="https://www.microverse.org/" target="_blank">Microverse</a> :rocket:</p>
 
-<!--
-<p align="center">
-[![My stats](https://github-readme-stats.vercel.app/api?username=fernandorpm&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-</p>
--->
-
 <h2>Let's get in touch!</h2>
 <p align="center">
   <a href="mailto:nikos@pountzas.gr" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -37,19 +31,3 @@
   <a href="https://twitter.com/pountzas20" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   
 </p>
-
-
-<!--
-**pountzas/pountzas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
