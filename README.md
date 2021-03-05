@@ -34,3 +34,9 @@
   <a href="https://twitter.com/pountzas20" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   
 </p>
+
+![Pountzas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pountzas&theme=midnight-purple&show_icons=true)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pountzas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
