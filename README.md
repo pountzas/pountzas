@@ -8,6 +8,8 @@
 <h3>Hello There! I am Nikos,</h3>
 <p>A passionate Full-Stack Developer who likes to automate :dark_sunglasses: </p>
 
+<p >Currently studying as an international programmer in <a href="https://www.microverse.org/" target="_blank">Microverse</a> </p>
+
 <br>
 
 ### Languages and Tools:
@@ -22,8 +24,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
-
-<p align="left">Currently studying as an international programmer in <a href="https://www.microverse.org/" target="_blank">Microverse</a> </p>
 
 <h2>Let's get in touch!</h2>
 <p align="center">
