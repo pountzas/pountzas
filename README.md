@@ -35,6 +35,8 @@
   
 </p>
 
+https://techierank.com/#pountzas/3791299c05f786025e2f33827c25e5b0
+
 ![Pountzas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pountzas&theme=midnight-purple&show_icons=true)
 <br>
 <br>
