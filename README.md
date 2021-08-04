@@ -15,7 +15,7 @@
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Sass" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" />
+<img align="left" alt="Ruby" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" />
 <br><br>
 
 ### Frameworks:
@@ -24,15 +24,19 @@
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 
-<img align="left" alt="Sass" width="30px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" />
-<img align="left" alt="Sass" width="30px" src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" />
+<img align="left" alt="Tailwind" width="30px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" />
+<img align="left" alt="RoR" width="35px" src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" />
+<img align="left" alt="React" width="30px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" />
+<img align="left" alt="Redux" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
  
+
+
  
 <br><br>
 ### Tools
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://e7.pngegg.com/pngimages/347/509/png-clipart-github-computer-icons-logo-github-angle-white.png" />
+<!-- <img align="left" alt="GitHub" width="30px" src="https://e7.pngegg.com/pngimages/347/509/png-clipart-github-computer-icons-logo-github-angle-white.png" /> -->
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br><br>
 <!-- ### Skills: -->
