@@ -5,7 +5,7 @@
 <h3>Hello There! I am Nikos,</h3>
 <p>A passionate Full-Stack Developer who likes to automate :dark_sunglasses: </p>
 
-<p >Currently studying as an international programmer in <a href="https://www.microverse.org/" target="_blank">Microverse</a> </p>
+<p >Currently looking for new opportunities. </p>
 
 <p align="center">
 <!-- <a href="https://www.hackerrank.com/nikos7" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a> -->
