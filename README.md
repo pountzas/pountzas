@@ -53,8 +53,8 @@
 
 ![](https://techierank.com/#pountzas/3791299c05f786025e2f33827c25e5b0)
 
-![Pountzas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pountzas&theme=midnight-purple&show_icons=true)
+![Pountzas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pountzas&theme=midnight-purple&show_icons=true&count_private=true)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pountzas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pountzas&theme=dark&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
