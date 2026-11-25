@@ -1,60 +1,79 @@
-<!--<img src="https://user-images.githubusercontent.com/47700024/109900732-9acc5680-7c76-11eb-9d0c-daf0d7aae5ff.png" alt="Pountzas Nikos, Full Stack Developer "> -->
- 
-
-</p>
-<h3>Hello There! I am Nikos,</h3>
-<p>A passionate Full-Stack Developer who likes to automate :dark_sunglasses: </p>
-
-<p >Currently looking for new opportunities. </p>
-
 <p align="center">
-<!-- <a href="https://www.hackerrank.com/nikos7" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a> -->
-<br>
-
-### Languages:
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Ruby" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" />
-<br><br>
-
-### Frameworks:
-<!--  - styling -->
-<img align="left" alt="BootStrap" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-
-<img align="left" alt="Tailwind" width="30px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" />
-<img align="left" alt="RoR" width="35px" src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" />
-<img align="left" alt="React" width="30px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" />
-<img align="left" alt="Redux" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
- 
-
-
- 
-<br><br>
-### Tools
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<!-- <img align="left" alt="GitHub" width="30px" src="https://e7.pngegg.com/pngimages/347/509/png-clipart-github-computer-icons-logo-github-angle-white.png" /> -->
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br><br>
-<!-- ### Skills: -->
-
-<br>
-
-<h2>Let's get in touch!</h2>
-<p align="center">
-  <a href="mailto:nikos@pountzas.gr" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/nikos-pountzas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/pountzas20" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Nikos%20Pountzas&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Front-end%20and%20Mobile%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20React%20Native&descSize=18&descAlignY=58&animation=fadeIn" alt="Nikos Pountzas — Front-end & Mobile Developer" width="100%">
 </p>
 
-![](https://techierank.com/#pountzas/3791299c05f786025e2f33827c25e5b0)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&height=45&lines=I+design+and+build+interfaces;Currently+building+Reach+Panel;Front-end+%26+Mobile+Developer;Based+in+Greece" alt="I design and build interfaces">
+</p>
 
-![Pountzas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pountzas&theme=midnight-purple&show_icons=true&count_private=true)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pountzas&theme=dark&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">
+  Hi, I'm Nikos <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="Waving hand">
+</h1>
 
+<div align="center">
+
+I design and build interfaces — web, mobile, and lately desktop. Graphic design was my first career; TypeScript and React are how I work now. I also spend a lot of time building with coding agents.
+
+These days I'm making [Reach Panel](https://github.com/pountzas/reach-Panel), an assistive keyboard and text-to-speech app for people with motor disabilities.
+
+<!-- Location: recent CV roles are in Athens; GitHub and LinkedIn still say Patras. The intro says Greece until you pick a city. -->
+
+</div>
+
+<h2 align="center">Now</h2>
+
+<div align="center">
+
+Latest [Reach Panel](https://github.com/pountzas/reach-Panel) releases, updated automatically from the public repo.
+
+<!-- NOW:START -->
+- [Reach Panel v0.19.3](https://github.com/pountzas/reach-Panel/releases/tag/v0.19.3) — 24 Nov 2026
+- [Reach Panel v0.19.2](https://github.com/pountzas/reach-Panel/releases/tag/v0.19.2) — 18 Nov 2026
+- [Reach Panel v0.19.1](https://github.com/pountzas/reach-Panel/releases/tag/v0.19.1) — 14 Nov 2026
+<!-- NOW:END -->
+
+</div>
+
+<h2 align="center">Other things I've made</h2>
+
+<div align="center">
+
+- [cookGPT](https://github.com/pountzas/cook-gpt) — an AI recipe app ([live](https://cook-gpt-nine.vercel.app/))
+- [Smart Home](https://github.com/pountzas/smart-home-v2) — a small IoT-style dashboard ([live](https://smart-home-plum.vercel.app/))
+- [Plix](https://github.com/pountzas/Plix) — a Plex-style app for local media ([live](https://plix.vercel.app/))
+
+</div>
+
+<h2 align="center">Tech stack</h2>
+
+<div align="center">
+
+**Front-end**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Back-end & desktop**  
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+
+**Databases & cloud**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Tools & AI workflow**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square) ![Orca](https://img.shields.io/badge/Orca-0F172A?style=flat-square)
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pountzas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pountzas&theme=tokyonight&layout=compact&hide_border=true&count_private=true" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pountzas&theme=tokyonight&hide_border=true" alt="GitHub streak">
+</p>
+
+<p align="center">
+  I'm looking for my next role. Say hello: <a href="mailto:nikos@pountzas.gr">nikos@pountzas.gr</a> · <a href="https://www.linkedin.com/in/nikos-pountzas/">LinkedIn</a> · <a href="https://pountzas-portfolio.vercel.app/">Portfolio</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer" alt="" width="100%">
+</p>
